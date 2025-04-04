@@ -1,0 +1,36 @@
+* {
+
+    margin: 0;
+    padding: 0;
+    
+    }    
+
+body {
+
+background-color: rgb(236, 186, 106);
+
+
+}
+
+.paragrafo {
+
+text-align: justify;
+color: rgb(0, 0, 0);
+background-color: rgb(0, 0, 0);
+font-family: cursive;
+font-weight: 500;
+padding: 20px;
+
+}
+
+.foto-de-fundo {
+
+height: 400px;
+width: 1300px;
+
+
+
+
+
+
+}
